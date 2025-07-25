@@ -3,7 +3,7 @@ import React from 'react';
 import FormWrapper from './components/FormWrapper';
 import { schema } from './schema/EMCO_v4.2_schema';
 import { UserProvider } from './context/UserContext';
-import '../styles/theme.css';
+import './styles/theme.css';
 
 function App() {
   return (
